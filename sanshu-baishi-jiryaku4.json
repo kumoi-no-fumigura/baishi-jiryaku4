@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-jiryaku4",
  "yomi": "ばいしないしんのうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "治暦4年（1068）12月",
+  "author": "主催 禖子内親王",
+  "desc": "六条斎院禖子内親王の家の冬の歌合。「月光似氷」「夜雪驚夢」・炭竈・仏名などの題を、出羽・宣旨・美作ら女房が詠む。"
+ },
  "editions": [
   {
    "pid": "1128193",
